@@ -29,7 +29,3 @@ dependencies {
 5. pick size 0, 1 or 2.
 
 
-## Example
-
-https://github.com/MatanelM/AndroidAccessabilityModule/assets/33670032/72039d42-c1e9-4b10-aed0-bf21ac7465b1
-
